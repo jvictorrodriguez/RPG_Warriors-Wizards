@@ -4,16 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60b7c08-55eb-4ed3-814f-f0228da9db1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/DAO/CharacterDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/enums/AttackType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Statistics.java" afterDir="false" />
+    <list default="true" id="d60b7c08-55eb-4ed3-814f-f0228da9db1e" name="Changes" comment="First push">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/enums/CharacterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/service/BattleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/service/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/service/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/service/MiniFactoryRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/utils/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mensajes.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mensajes_es_ES.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/DAO/CharacterDAO.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/enums/AttackType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/enums/AttackType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Attacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Attacker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Statistics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Warrior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_a/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_b/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_c/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Intern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/ficheros/LoadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Sedan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntVector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntVector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trivial/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trivial/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trivial/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trivial/Question.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +74,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/victo/IdeaProjects/RPG_Warriors&Wizards"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\IdeaProjects\J6Agosto23\src\main\resources" />
+      <recent name="C:\Users\victo\IdeaProjects\J6Agosto23\src\main\java\org\example\RPG_game" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org.example.labs.lab_108.e_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.RPG_game.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.labs.lab_108.Main" />
+  <component name="RunManager" selected="Application.Console">
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RPG_game.service.Console" />
       <module name="J6Agosto23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.labs.lab_108.*" />
+          <option name="PATTERN" value="org.example.RPG_game.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Console" />
         <item itemvalue="Application.org.example.RPG_game.Main" />
         <item itemvalue="Application.org.example.labs.lab_108.e_2.Main" />
         <item itemvalue="Application.org.example.labs.lab_108.e.Main" />
         <item itemvalue="Application.org.example.labs.lab_106.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -138,5 +177,16 @@
       <updated>1692708774781</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

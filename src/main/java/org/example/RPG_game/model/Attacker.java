@@ -1,25 +1,27 @@
 package org.example.RPG_game.model;
 
-import java.lang.Character;
+
+
 public interface Attacker {
 
-    int getPower();
-    default StringBuilder attack(Attacker adversary, StringBuilder sb) {
 
-        //Todo mirar como eran los métodos genéricos
-        if (this.getPower()<5)  return  weakAttack(adversary);
-        return heavyAttack(adversary);
+    public Statistics attack(Character adversary);
+
+    public Statistics weakAttack(Character adversary);
+    public Statistics heavyAttack(Character adversary);
+
+
+//    private Statistics heavyAttack(Character adversary) {
+//        System.out.println("HeavyAttack");
+//        return new Statistics(this,AttackType.HEAVY_ATTACK,this.getPower(),adversary,adversary.getPower());
+//    }
+//
+//    private Statistics weakAttack(Attacker adversary) {
+//        System.out.println("WeakAttack");
+//        return new Statistics(this,AttackType.WEAK_ATTACK,this.getPower(),adversary,adversary.getPower());
 
     }
 
 
-    private StringBuilder heavyAttack(Attacker adversary) {
-        System.out.println("HeavyAttack");
-    }
-
-    private StringBuilder weakAttack(Attacker adversary) {
-        System.out.println("WeakAttack");
-    }
 
 
-}

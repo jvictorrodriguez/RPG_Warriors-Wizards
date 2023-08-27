@@ -1,0 +1,2 @@
+Nico;Rodriguez;30000.0
+Hugo;Rodríguez;20000.0

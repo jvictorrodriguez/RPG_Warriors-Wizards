@@ -21,7 +21,9 @@ public abstract class Character {
         this.hp = hp;
         this.isAlive = true;
     }
-
+    public int getPower(){
+        return 0;
+    }
     public int getId() {
         return id;
     }

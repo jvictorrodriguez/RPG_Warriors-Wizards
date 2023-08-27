@@ -1,6 +1,6 @@
 package org.example.RPG_game.model;
 
-public class Wizard extends Character {
+public class Wizard extends Character implements Attacker{
 
     private final int WIZARD_MAX_HP=100;
     private final int WIZARD_MIN_HP=50;
@@ -16,5 +16,18 @@ public class Wizard extends Character {
         super(name, hp);
         this.mana = mana;
         this.intelligence = intelligence;
+    }
+
+    public int getMana() {
+        return mana;
+    }
+
+    public int getIntelligence() {
+        return intelligence;
+    }
+
+    @Override
+    public int getPower() {
+        return getMana();
     }
 }

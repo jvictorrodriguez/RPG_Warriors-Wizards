@@ -27,8 +27,6 @@ public class Warrior extends Character implements Attacker{
     this.stamina=  WARRIOR_MIN_STAMINA <= stamina && stamina>=WARRIOR_MIN_STAMINA ? stamina: WARRIOR_MAX_STAMINA;
 
         System.out.println("stamina after ternacio "+ stamina);
-//        salary = salary < SALARY_LIMIT ? salary : SALARY_LIMIT;
-//        super.setSalary(salary);
 
     }
 
@@ -40,20 +38,7 @@ public class Warrior extends Character implements Attacker{
         this.stregth = stregth;
     }
 
-    @Override
-    public int attack() {
-        return 0;
-    }
 
-    @Override
-    public void heavyAttack() {
-
-    }
-
-    @Override
-    public void weakAttack() {
-
-    }
 
     @Override
     public String toString() {
@@ -62,4 +47,11 @@ public class Warrior extends Character implements Attacker{
                 ", stregth=" + stregth +
                 "} " + super.toString();
     }
+
+
+    @Override
+    public int getPower() {
+        return getStamina();
+    }
+
 }

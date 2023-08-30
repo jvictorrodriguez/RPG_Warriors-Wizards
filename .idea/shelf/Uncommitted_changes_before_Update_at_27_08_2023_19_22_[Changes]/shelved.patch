@@ -1,0 +1,85 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d60b7c08-55eb-4ed3-814f-f0228da9db1e\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/RPG_game/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Attacker.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Character.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Warrior.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Wizard.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_a/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_b/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_c/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Employee.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Intern.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/ficheros/LoadFile.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Car.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Sedan.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Truck.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Utility.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntArrayList.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntList.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntVector.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntArrayList.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntList.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntVector.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/trivial/Game.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/trivial/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/trivial/Player.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/trivial/Question.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"AnnotationType\" />\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2ULB2cuCQyUBvCDCIprI9tQdNRn\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"ExtractSuperBase.RECENT_KEYS\">\r\n      <recent name=\"org.example.labs.lab_108.e_2\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.org.example.RPG_game.Main\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.labs.lab_108.Main\" />\r\n      <module name=\"J6Agosto23\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.labs.lab_108.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"org.example.RPG_game.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.RPG_game.Main\" />\r\n      <module name=\"J6Agosto23\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.RPG_game.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"org.example.labs.lab_106.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.labs.lab_106.Main\" />\r\n      <module name=\"J6Agosto23\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.labs.lab_106.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"org.example.labs.lab_108.e_2.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.labs.lab_108.e_2.Main\" />\r\n      <module name=\"J6Agosto23\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.labs.lab_108.e_2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"org.example.labs.lab_108.e.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.labs.lab_108.e.Main\" />\r\n      <module name=\"J6Agosto23\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.labs.lab_108.e.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.org.example.RPG_game.Main\" />\r\n        <item itemvalue=\"Application.org.example.labs.lab_108.e_2.Main\" />\r\n        <item itemvalue=\"Application.org.example.labs.lab_108.e.Main\" />\r\n        <item itemvalue=\"Application.org.example.labs.lab_106.Main\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d60b7c08-55eb-4ed3-814f-f0228da9db1e\" name=\"Changes\" comment=\"\" />\r\n      <created>1692708774781</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1692708774781</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 264f7863ac2c58be10ac75e6c9dffe2967c0a5b3)
++++ b/.idea/workspace.xml	(date 1693136929045)
+@@ -4,46 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d60b7c08-55eb-4ed3-814f-f0228da9db1e" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Attacker.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Character.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Warrior.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RPG_game/model/Wizard.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_a/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_b/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_104_c/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Employee.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Intern.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_106/ficheros/LoadFile.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Car.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Sedan.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Truck.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/c/Utility.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntArrayList.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntList.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/IntVector.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntArrayList.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntList.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/IntVector.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/labs/lab_108/e_2/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trivial/Game.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trivial/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trivial/Player.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trivial/Question.java" afterDir="false" />
+-    </list>
++    <list default="true" id="d60b7c08-55eb-4ed3-814f-f0228da9db1e" name="Changes" comment="First push" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -164,6 +125,25 @@
+       <option name="presentableId" value="Default" />
+       <updated>1692708774781</updated>
+     </task>
++    <task id="LOCAL-00001" summary="First push">
++      <created>1693136807516</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1693136807516</updated>
++    </task>
++    <task id="LOCAL-00002" summary="First push">
++      <created>1693136903286</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1693136903286</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="First push" />
++    <option name="LAST_COMMIT_MESSAGE" value="First push" />
++  </component>
+ </project>
+\ No newline at end of file
